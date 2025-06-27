@@ -192,7 +192,9 @@ export default function App() {
           <section id="about" style={sectionStyle()}>
             <h2 style={sectionHeading()}>About Me</h2>
             <p style={paragraphStyle()}>
-              With over 9 years of experience, I specialize in building scalable, production-ready web and mobile applications using React and React Native. I've led digital product development for top fintech brands including NIUM, PhonePe, Kotak, Kroo, and Shawbrook.
+             I bring a solid 9 years of experience in designing and developing complex web and mobile applications using React, React Native, and other modern technologies. I have contributed to and led high-impact projects for leading fintech companies such as NIUM, PhonePe, Kotak, PATRONAS, Kroo, and Shawbrook. 
+
+My leadership has played a key role in delivering scalable, production-ready applications that have set benchmarks and successfully launched on both the App Store and Google Play.
             </p>
           </section>
         )}
